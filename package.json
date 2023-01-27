@@ -9,13 +9,32 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.2",
+    "@expo-google-fonts/montserrat-alternates": "^0.2.2",
+    "@react-navigation/native": "^6.1.2",
+    "@react-navigation/native-stack": "^6.9.8",
+    "@react-navigation/stack": "^6.3.11",
+    "assets": "file:src/assets",
+    "axios": "^1.2.3",
     "expo": "~47.0.12",
+    "expo-font": "~11.0.1",
+    "expo-linear-gradient": "~12.0.1",
+    "expo-notifications": "~0.17.0",
+    "expo-secure-store": "~12.0.0",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-gesture-handler": "~2.8.0",
+    "react-native-image-slider-banner": "^1.0.3",
+    "react-native-pager-view": "6.0.1",
+    "react-native-safe-area-context": "4.4.1",
+    "react-native-screens": "~3.18.0",
+    "react-native-svg": "13.4.0",
+    "react-native-tab-view": "^3.3.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "react-native-svg-transformer": "^1.0.0"
   },
   "private": true
 }
