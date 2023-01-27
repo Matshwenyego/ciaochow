@@ -1,6 +1,12 @@
 # Getting Started with Ciao Chow App
 
-## Available Scripts
+## Install dependencies
+
+In the project directory, you can run:
+
+### `npm install`
+
+### Available Scripts
 
 In the project directory, you can run:
 
